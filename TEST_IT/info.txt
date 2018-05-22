@@ -1,0 +1,1 @@
+Passwort für test.txt = a (use with GRYPTWRITER.cmd)
