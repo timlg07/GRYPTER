@@ -1,0 +1,3 @@
+Verschlüsselt und entschlüsselt Dateien.
+[Encrypt] verschlüsselt eine (Text/Batch/...-)Datei mithilfe des Passworts
+[Decrypt] entschlüsselt die Datei wieder in den ursprünglichen Zustand
