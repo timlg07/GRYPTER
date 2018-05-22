@@ -1,0 +1,7 @@
+Gryptwriter:
+	+ Umlaute
+	+ Backspace [ASCII:8] (Löscht vorherigen Buchstaben)
+	+ !
+Grypter:
+	+ Sonderzeichen (><|%)
+	- !
