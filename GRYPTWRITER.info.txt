@@ -1,0 +1,4 @@
+Verschlüsselter Texteditor.
+[Encrypt] um eine Textdatei (weiter) zu schreiben.
+[Decrypt] um die Datei zu lesen.
+Das Passwort wird nicht gespeichert.
